@@ -20,7 +20,7 @@ Operational Flight Analytics: Engineered automated data definitions to calculate
 Regional Performance Architecture: Features built-in layouts to segment logistical KPIs across multi-level spatial & regional boundaries.  
 Multi-Page Dashboard Navigation
 Business Problem
-Business impact & insight
+
 
 
 # Key Questions Such as
@@ -44,7 +44,7 @@ Business impact & insight
 8. Build a Dashboard to support your Analysis
 9. Create a Dashboard for all above KPI
 10. Use the filter to provide a search capability to find the flights between Source Country, Source State, Source City to Destination Country , Destination State, Destination City
-
+11. Regional & Customer Analytics
 
 # Screenshorts /Demo
 Show waht the dashboard looks like
